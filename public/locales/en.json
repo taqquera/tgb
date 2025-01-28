@@ -1,0 +1,79 @@
+{
+  "game": {
+    "soon": "Soon...",
+    "boostButton": "Boost your score",
+    "menu": {
+      "home": "Home",
+      "tasks": "Tasks",
+      "leaders": "Leaders",
+      "friends": "Friends",
+      "games": "Games"
+    },
+    "home": {
+      "profile": {
+        "title": "Profile",
+        "wallet": "Wallet",
+        "notConnected": "Not connected",
+        "connectButton": "Connect a wallet"
+      },
+      "dailyCheckIn": "Daily Check-In",
+      "tasksBanner": {
+        "title": "Your reward",
+        "button": "Receive"
+      }
+    },
+    "games": {
+      "title": "Mini-Games"
+    },
+    "leaders": {
+      "title": "Leaders",
+      "statistics": {
+        "title": "Statistics",
+        "users": "Users"
+      },
+      "kingTheHill": {
+        "title": "King of the Hill",
+        "button": "Become a King"
+      },
+      "list": {
+        "your": "Your position",
+        "top": "Top 100"
+      },
+      "tabs": {
+        "token": "Tokens",
+        "deamond": "Deamonds",
+        "referral": "Referral"
+      }
+    },
+    "tasks": {
+      "title": "Tasks",
+      "get": "Get Rewards",
+      "for": "for completing tasks",
+      "noTasksYet": "No tasks yet",
+      "hiRiskDisclaimer": {
+        "title": "Warning",
+        "text": "HI-Risk tasks, belong to the categories: betting (betting, bookmakers, etc.) gambling (poker, casinos, lotteries/sweepstakes, etc.), investments and loans/microloans. Their use may harm your well-being. We are not responsible for your funds!"
+      },
+      "tabs": {
+        "limited": "Limited",
+        "daily": "Daily",
+        "inGame": "In-Game",
+        "partners": "Partners",
+        "achievements": "Achievements",
+        "hiRisk": "Hi-Risk"
+      }
+    },
+    "friends": {
+      "title": "Friends",
+      "get": "Get Rewards",
+      "for": "for inviting friends",
+      "bonuses": {
+        "title": "Bonuses",
+        "friend": "Invite a friend",
+        "preminumFriend": "Invite a premium friend",
+        "task": "For each completed task",
+        "game": "For expenses in the games section"
+      }
+    }
+  }
+}
